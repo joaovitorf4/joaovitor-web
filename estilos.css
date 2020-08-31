@@ -1,0 +1,46 @@
+h1 {
+  font-size: 36px;
+  font-family: Arial;
+  color: purple;
+  text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: solid;
+  border-color: purple;
+  border-width: 5px;
+}
+body{
+  background-color: black;
+  background-image: url(/purple.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+p {
+  font-family: Arial;
+  color: purple;
+  margin-left: 30%;
+  margin-right: 30%;
+  text-align: center;
+
+}
+ul {
+  font-family: Courier;
+  color: purple;
+  margin-left: 30%;
+  margin-right: 30%;
+  text-align: left;
+}
+.d {
+  font-family: Lucida;
+
+}
+#listaimg{
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 320px;
+  max-height: 240px;
+}
